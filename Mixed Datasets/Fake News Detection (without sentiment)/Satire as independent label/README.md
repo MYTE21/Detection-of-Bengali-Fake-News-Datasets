@@ -1,0 +1,1 @@
+Content: LabeledAuthentic (Fake - 3238) + Satire from LabeledFake (1136) + True from authentic (True - 8000)
